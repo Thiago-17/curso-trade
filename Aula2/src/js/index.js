@@ -1,5 +1,5 @@
 var valor = prompt('digite um numero');
-var numero  = parseInt(numero);
+var numero  = parseInt(valor);
 
 if(isNaN(numero)){
     alert('Você não digitou um numero - ' + valor);
